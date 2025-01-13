@@ -18,8 +18,11 @@ I'm currently a student at NIT Calicut<br>I'm actively looking for internship op
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ssaisriharsha/ssaisriharsha/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssaisriharsha/ssaisriharsha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssaisriharsha/ssaisriharsha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ssaisriharsha/ssaisriharsha/output/github-snake.svg" />
+</picture>
 ###
 
 <div align="left">
